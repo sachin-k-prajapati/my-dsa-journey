@@ -105,3 +105,12 @@ public:
         return result;
     }
 };
+
+// ----------------------------------------------------------------------------
+// Recursive Approach
+void preorderHelper(TreeNode* root, vector<int>& result) {
+    if (!root) return;
+    result.push_back(root->val);
+    preorderHelper(root->left, result);
+    preorderHelper(root->right, result);
+}

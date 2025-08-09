@@ -16,6 +16,7 @@ Tracking daily problem-solving progress...
 | 2025-08-08 | All Nodes Distance K in Binary Tree          | Medium     | 🔄     | [LeetCode-863](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/all_nodes_distance_k_in_binary_tree.cpp) |
 | 2025-08-09 | Binary Tree Preorder Traversal               | Easy       | ✅     | [LeetCode-144](https://leetcode.com/problems/binary-tree-preorder-traversal/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/binary_tree_preorder_traversal.cpp) |
 | 2025-08-09 | Binary Tree Inorder Traversal                | Easy       | ✅     | [LeetCode-94](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/binary_tree_inorder_traversal.cpp) |
+| 2025-08-09 | Binary Tree Postorder Traversal               | Easy       | ✅     | [LeetCode-145](https://leetcode.com/problems/binary-tree-postorder-traversal/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/binary_tree_postorder_traversal.cpp) |
 
 ---
 

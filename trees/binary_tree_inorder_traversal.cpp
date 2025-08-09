@@ -135,3 +135,12 @@ public:
         return result;
     }
 };
+
+// ----------------------------------------------------------------------------
+// Recursive Approach
+void inorderHelper(TreeNode* root, vector<int>& result) {
+    if (!root) return;
+    inorderHelper(root->left, result);
+    result.push_back(root->val);
+    inorderHelper(root->right, result);
+}

@@ -2,7 +2,8 @@
 
 Tracking problem-solving progress...
 
-``` TOTAL PROBLEMS: 11 ```
+
+``` TOTAL PROBLEMS: 11 | 🟢 Easy: 4 | 🟠 Medium: 7 | 🔴 Hard: 0 ```
 
 ---
 

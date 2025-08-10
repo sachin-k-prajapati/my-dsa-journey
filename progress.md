@@ -2,13 +2,13 @@
 
 Tracking problem-solving progress...
 
-``` TOTAL PROBLEMS: 10 ```
+``` TOTAL PROBLEMS: 11 ```
 
 ---
 
 ## 📅 August 2025
 
-**Total Problems: 10**
+**Total Problems: 11**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -22,6 +22,7 @@ Tracking problem-solving progress...
 | 8  | 2025-08-09 | Binary Tree Inorder Traversal                | 🟢 Easy    | ✅     | 2                | [LeetCode-94](https://leetcode.com/problems/binary-tree-inorder-traversal/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/binary_tree_inorder_traversal.cpp) |
 | 9  | 2025-08-09 | Binary Tree Postorder Traversal              | 🟢 Easy    | ✅     | 3                | [LeetCode-145](https://leetcode.com/problems/binary-tree-postorder-traversal/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/binary_tree_postorder_traversal.cpp) |
 | 10 | 2025-08-09 | Same Tree                                    | 🟢 Easy    | ✅     | 2                | [LeetCode-100](https://leetcode.com/problems/same-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/same_tree.cpp) |
+| 11 | 2025-08-10 | Boundary Traversal of Binary Tree            | 🟠 Medium  | ✅     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/boundary_traversal_of_binary_tree.cpp) |
 
 ---
 

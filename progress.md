@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 11 | 🟢 Easy: 4 | 🟠 Medium: 7 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 12 | 🟢 Easy: 5 | 🟠 Medium: 7 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 August 2025
 
-**Total Problems: 11**
+**Total Problems: 12**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -24,13 +24,14 @@ Tracking problem-solving progress...
 | 9  | 2025-08-09 | Binary Tree Postorder Traversal              | 🟢 Easy    | ✅     | 3                | [LeetCode-145](https://leetcode.com/problems/binary-tree-postorder-traversal/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/binary_tree_postorder_traversal.cpp) |
 | 10 | 2025-08-09 | Same Tree                                    | 🟢 Easy    | ✅     | 2                | [LeetCode-100](https://leetcode.com/problems/same-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/same_tree.cpp) |
 | 11 | 2025-08-10 | Boundary Traversal of Binary Tree            | 🟠 Medium  | ✅     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/boundary_traversal_of_binary_tree.cpp) |
+| 12 | 2025-08-10 | Symmetric Tree                               | 🟢 Easy    | ✅     | 2                | [LeetCode-101](https://leetcode.com/problems/symmetric-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/symmetric_tree.cpp) |
 
 ---
 
 ## 🔁 Status
 - ✅ Solved independently
 - 🔄 Solved with hints  
-- 📖 Reviewed solution  
+- 📖 Reviewed solution 
 - ❌ Attempted but unsolved  
 - 🟢 Easy
 - 🟠 Medium

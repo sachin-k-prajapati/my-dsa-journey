@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 13 | 🟢 Easy: 5 | 🟠 Medium: 8 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 14 | 🟢 Easy: 5 | 🟠 Medium: 9 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 August 2025
 
-**Total Problems: 13**
+**Total Problems: 14**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -26,6 +26,7 @@ Tracking problem-solving progress...
 | 11 | 2025-08-10 | Boundary Traversal of Binary Tree            | 🟠 Medium  | ✅     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/boundary-traversal-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/boundary_traversal_of_binary_tree.cpp) |
 | 12 | 2025-08-10 | Symmetric Tree                               | 🟢 Easy    | ✅     | 2                | [LeetCode-101](https://leetcode.com/problems/symmetric-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/symmetric_tree.cpp) |
 | 13 | 2025-08-10 | Lowest Common Ancestor of a Binary Tree      | 🟠 Medium  | ✅     | 2                | [LeetCode-236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/lowest_common_ancestor_of_a_binary_tree.cpp) |
+| 14 | 2025-08-10 | Flatten Binary Tree to Linked List           | 🟠 Medium  | ✅     | 3                | [LeetCode-114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/flatten_binary_tree_to_linked_list.cpp) |
 
 ---
 

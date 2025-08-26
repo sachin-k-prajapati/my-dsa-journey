@@ -28,6 +28,7 @@ Tracking problem-solving progress...
 | 13 | 2025-08-10 | Lowest Common Ancestor of a Binary Tree      | 🟠 Medium  | ✅     | 2                | [LeetCode-236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/lowest_common_ancestor_of_a_binary_tree.cpp) |
 | 14 | 2025-08-11 | Flatten Binary Tree to Linked List           | 🟠 Medium  | ✅     | 3                | [LeetCode-114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/flatten_binary_tree_to_linked_list.cpp) |
 | 15 | 2025-08-11 | Diameter of Binary Tree                      | 🟠 Medium  | ✅     | 1                | [LeetCode-543](https://leetcode.com/problems/diameter-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/diameter_of_binary_tree.cpp) |
+| 16 | 2025-08-26 | Top View of Binary Tree                      | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/top_view_of_binary_tree.cpp) |
 
 ---
 

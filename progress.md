@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 15 | 🟢 Easy: 5 | 🟠 Medium: 10 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 17 | 🟢 Easy: 5 | 🟠 Medium: 12 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 August 2025
 
-**Total Problems: 15**
+**Total Problems: 17**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -29,6 +29,7 @@ Tracking problem-solving progress...
 | 14 | 2025-08-11 | Flatten Binary Tree to Linked List           | 🟠 Medium  | ✅     | 3                | [LeetCode-114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/flatten_binary_tree_to_linked_list.cpp) |
 | 15 | 2025-08-11 | Diameter of Binary Tree                      | 🟠 Medium  | ✅     | 1                | [LeetCode-543](https://leetcode.com/problems/diameter-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/diameter_of_binary_tree.cpp) |
 | 16 | 2025-08-26 | Top View of Binary Tree                      | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/top_view_of_binary_tree.cpp) |
+| 17 | 2025-08-26 | Bottom View of Binary Tree                   | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/)  | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/bottom_view_of_binary_tree.cpp) |
 
 ---
 

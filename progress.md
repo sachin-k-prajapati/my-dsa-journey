@@ -3,7 +3,17 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 17 | 🟢 Easy: 5 | 🟠 Medium: 12 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 18 | 🟢 Easy: 5 | 🟠 Medium: 13 | 🔴 Hard: 0 ```
+
+---
+
+## 📅 September 2025
+
+**Total Problems: 1**
+
+| #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
+|----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1  | 2025-09-20 | Predecessor and Successor            | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/predecessor_and_successor.cpp) |
 
 ---
 

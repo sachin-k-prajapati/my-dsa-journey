@@ -3,17 +3,18 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 18 | 🟢 Easy: 5 | 🟠 Medium: 13 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 19 | 🟢 Easy: 5 | 🟠 Medium: 14 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 September 2025
 
-**Total Problems: 1**
+**Total Problems: 2**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1  | 2025-09-20 | Predecessor and Successor            | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/predecessor_and_successor.cpp) |
+| 2  | 2025-09-22 | Ceil in BST            | 🟠 Medium  | ✅     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/ceil_in_bst.cpp) |
 
 ---
 

@@ -3,19 +3,20 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 20 | 🟢 Easy: 5 | 🟠 Medium: 15 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 21 | 🟢 Easy: 5 | 🟠 Medium: 16 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 September 2025
 
-**Total Problems: 3**
+**Total Problems: 4**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1  | 2025-09-20 | Predecessor and Successor            | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/predecessor-and-successor/1)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/predecessor_and_successor.cpp) |
 | 2  | 2025-09-22 | Ceil in BST            | 🟠 Medium  | ✅     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/ceil_in_bst.cpp) |
-| 3  | 2025-09-25 | Largest BST in Binary Tree | 🟠 Medium  | 🔄     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-bst/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/largest_bst.cpp) |
+| 3  | 2025-09-23 | Largest BST in Binary Tree | 🟠 Medium  | 🔄     | 2                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/largest-bst/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/largest_bst.cpp) |
+| 4  | 2025-09-24 | Convert Min Heap to Max Heap | 🟠 Medium  | 🔄     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/convert-min-heap-to-max-heap-1666385109/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/trees/convert-min-heap-to-max-heap.cpp) |
 
 ---
 

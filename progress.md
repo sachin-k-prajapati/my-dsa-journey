@@ -6,6 +6,17 @@ Tracking problem-solving progress...
 ``` TOTAL PROBLEMS: 21 | 🟢 Easy: 5 | 🟠 Medium: 16 | 🔴 Hard: 0 ```
 
 ---
+## 📅 April 2026
+
+**Total Problems: 4**
+
+| #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
+|----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1  | 2026-04-19 | Maximum Distance Between a Pair of Values            | 🟠 Medium  | ✅     | 1                | [LeetCode-1855](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/maximum_distance_between_a_pair_of_values.cpp) |
+| 2  | 2026-04-20 | Two Sum            | 🟢 Easy  | ✅     | 2                | [LeetCode-1](https://leetcode.com/problems/two-sum/)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_sum.cpp) |
+| 3  | 2026-04-20 | Sort Colors | 🟠 Medium  | 🔄     | 2                | [LeetCode-75](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/sort_colors.cpp) |
+| 4  | 2026-04-20 | Majority Element | 🟠 Medium  | 🔄     | 1                | [LeetCode-169](https://leetcode.com/problems/majority-element/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/majority_element.cpp) |
+---
 
 ## 📅 September 2025
 

@@ -3,7 +3,7 @@
 Welcome to my personal Data Structures & Algorithms (DSA) repository — a space where I consistently push my problem-solving limits through daily coding.
 
 
-I solve problems from various platforms, mainly [LeetCode](https://leetcode.com), and document every solution clearly and consistently.
+I solve problems from various platforms, mainly [LeetCode](https://leetcode.com), [GeeksforGeeks](https://www.geeksforgeeks.org/problems), and document every solution clearly and consistently.
 
 ---
 
@@ -27,7 +27,7 @@ Each problem file contains:
 
 ## Progress Tracker
 
-Check `progress.md` for a timestamped log of all problems solved, their difficulty, and solution status.
+Check [progress.md](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/progress.md) for a timestamped log of all problems solved, their difficulty, and solution status.
 
 ---
 

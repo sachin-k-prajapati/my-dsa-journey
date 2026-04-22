@@ -18,7 +18,8 @@ Tracking problem-solving progress...
 | 4  | 2026-04-20 | Majority Element | 🟢 Easy  | 🔄     | 1                | [LeetCode-169](https://leetcode.com/problems/majority-element/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/majority_element.cpp) |
 | 5  | 2026-04-20 | Best Time to Buy and Sell Stock | 🟢 Easy  | 🔄     | 1                | [LeetCode-121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/best_time_to_buy_and_sell_stock.cpp) |
 | 6  | 2026-04-21 | Rearrange Array Elements by Sign | 🟠 Medium  | 🔄     | 1                | [LeetCode-2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/rearrange_array_elements_by_sign.cpp) |
-| 7  | 2026-04-21 | Two Furthest Houses With Different Colors | 🟢 Easy  | 🔄     | 1                | [LeetCode-2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_furthest_houses_with_different_colors.cpp) |
+| 7  | 2026-04-21 | Two Furthest Houses With Different Colors | 🟢 Easy  | ✅     | 1                | [LeetCode-2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_furthest_houses_with_different_colors.cpp) |
+| 8  | 2026-04-22 | Next Permutation | 🟠 Medium  | ✅     | 1                | [LeetCode-31](https://leetcode.com/problems/next-permutation/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/next_permutation.cpp) |
 ---
 
 ## 📅 September 2025

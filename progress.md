@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 28 | 🟢 Easy: 9 | 🟠 Medium: 19 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 30 | 🟢 Easy: 9 | 🟠 Medium: 21 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 7**
+**Total Problems: 9**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -20,6 +20,7 @@ Tracking problem-solving progress...
 | 6  | 2026-04-21 | Rearrange Array Elements by Sign | 🟠 Medium  | 🔄     | 1                | [LeetCode-2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/rearrange_array_elements_by_sign.cpp) |
 | 7  | 2026-04-21 | Two Furthest Houses With Different Colors | 🟢 Easy  | ✅     | 1                | [LeetCode-2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_furthest_houses_with_different_colors.cpp) |
 | 8  | 2026-04-22 | Next Permutation | 🟠 Medium  | ✅     | 1                | [LeetCode-31](https://leetcode.com/problems/next-permutation/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/next_permutation.cpp) |
+| 9  | 2026-04-22 | Set Matrix Zeroes | 🟠 Medium  | ✅     | 1                | [LeetCode-73](https://leetcode.com/problems/set-matrix-zeroes/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/set_matrix_zeroes.cpp) |
 ---
 
 ## 📅 September 2025

@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 33 | 🟢 Easy: 10 | 🟠 Medium: 23 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 34 | 🟢 Easy: 10 | 🟠 Medium: 24 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 12**
+**Total Problems: 13**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -24,6 +24,7 @@ Tracking problem-solving progress...
 | 10 | 2026-04-22 | Pascal's Triangle | 🟠 Medium  | ✅     | 1                | [LeetCode-118](https://leetcode.com/problems/pascals-triangle/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/pascals_triangle.cpp) |
 | 11 | 2026-04-23 | Longest Consecutive Sequence | 🟠 Medium  | 🔄     | 1                | [LeetCode-128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/longest_consecutive_sequence.cpp) |
 | 12 | 2026-04-23 | Merge Intervals | 🟠 Medium  | ✅     | 1                | [LeetCode-56](https://leetcode.com/problems/merge-intervals/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/merge_intervals.cpp) |
+| 13 | 2026-04-23 | Majority Element II | 🟠 Medium  | ✅     | 1                | [LeetCode-229](https://leetcode.com/problems/majority-element-ii/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/majority_element_ii.cpp) |
 
 ---
 

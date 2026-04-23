@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 32 | 🟢 Easy: 10 | 🟠 Medium: 22 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 33 | 🟢 Easy: 10 | 🟠 Medium: 23 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 11**
+**Total Problems: 12**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -21,8 +21,9 @@ Tracking problem-solving progress...
 | 7  | 2026-04-21 | Two Furthest Houses With Different Colors | 🟢 Easy  | ✅     | 1                | [LeetCode-2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_furthest_houses_with_different_colors.cpp) |
 | 8  | 2026-04-22 | Next Permutation | 🟠 Medium  | ✅     | 1                | [LeetCode-31](https://leetcode.com/problems/next-permutation/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/next_permutation.cpp) |
 | 9  | 2026-04-22 | Set Matrix Zeroes | 🟠 Medium  | ✅     | 1                | [LeetCode-73](https://leetcode.com/problems/set-matrix-zeroes/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/set_matrix_zeroes.cpp) |
-| 10 | 2026-04-23 | Pascal's Triangle | 🟠 Medium  | ✅     | 1                | [LeetCode-118](https://leetcode.com/problems/pascals-triangle/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/pascals_triangle.cpp) |
-| 11 | 2026-04-23 | Longest Consecutive Sequence | 🟠 Medium  | ✅     | 1                | [LeetCode-128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/longest_consecutive_sequence.cpp) |
+| 10 | 2026-04-22 | Pascal's Triangle | 🟠 Medium  | ✅     | 1                | [LeetCode-118](https://leetcode.com/problems/pascals-triangle/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/pascals_triangle.cpp) |
+| 11 | 2026-04-23 | Longest Consecutive Sequence | 🟠 Medium  | 🔄     | 1                | [LeetCode-128](https://leetcode.com/problems/longest-consecutive-sequence/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/longest_consecutive_sequence.cpp) |
+| 12 | 2026-04-23 | Merge Intervals | 🟠 Medium  | ✅     | 1                | [LeetCode-56](https://leetcode.com/problems/merge-intervals/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/merge_intervals.cpp) |
 
 ---
 

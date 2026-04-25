@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 49 | 🟢 Easy: 19 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 50 | 🟢 Easy: 20 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 28**
+**Total Problems: 29**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -40,6 +40,7 @@ Tracking problem-solving progress...
 | 26 | 2026-04-25 | Longest Common Prefix | 🟢 Easy  | 🔄     | 1                | [LeetCode-14](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/longest_common_prefix.cpp) |
 | 27 | 2026-04-25 | Rotate String | 🟢 Easy  | ✅     | 2                | [LeetCode-796](https://leetcode.com/problems/rotate-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/rotate_string.cpp) |
 | 28 | 2026-04-25 | Isomorphic Strings | 🟢 Easy  | ✅     | 2                | [LeetCode-205](https://leetcode.com/problems/isomorphic-strings/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/isomorphic_strings.cpp) |
+| 29 | 2026-04-25 | Valid Anagram | 🟢 Easy  | ✅     | 2                | [LeetCode-242](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/valid_anagram.cpp) |
 
 ---
 

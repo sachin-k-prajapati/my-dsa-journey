@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 48 | 🟢 Easy: 18 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 49 | 🟢 Easy: 19 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 27**
+**Total Problems: 28**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -38,7 +38,8 @@ Tracking problem-solving progress...
 | 24 | 2026-04-25 | Reverse Words in a String | 🟠 Medium  | ✅     | 1                | [LeetCode-151](https://leetcode.com/problems/reverse-words-in-a-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/reverse_words_in_a_string.cpp) |
 | 25 | 2026-04-25 | Largest Odd Number in String | 🟠 Medium  | ✅     | 1                | [LeetCode-1903](https://leetcode.com/problems/largest-odd-number-in-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/largest_odd_number_in_string.cpp) |
 | 26 | 2026-04-25 | Longest Common Prefix | 🟢 Easy  | 🔄     | 1                | [LeetCode-14](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/longest_common_prefix.cpp) |
-| 27 | 2026-04-25 | Rotate String | 🟢 Easy  | ✅     | 1                | [LeetCode-796](https://leetcode.com/problems/rotate-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/rotate_string.cpp) |
+| 27 | 2026-04-25 | Rotate String | 🟢 Easy  | ✅     | 2                | [LeetCode-796](https://leetcode.com/problems/rotate-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/rotate_string.cpp) |
+| 28 | 2026-04-25 | Isomorphic Strings | 🟢 Easy  | ✅     | 2                | [LeetCode-205](https://leetcode.com/problems/isomorphic-strings/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/isomorphic_strings.cpp) |
 
 ---
 

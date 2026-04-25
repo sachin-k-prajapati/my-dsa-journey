@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 45 | 🟢 Easy: 15 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 46 | 🟢 Easy: 16 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 24**
+**Total Problems: 25**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -36,6 +36,7 @@ Tracking problem-solving progress...
 | 22 | 2026-04-25 | Spiral Matrix | 🟠 Medium  | ✅     | 1                | [LeetCode-54](https://leetcode.com/problems/spiral-matrix/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/spiral_matrix.cpp) |
 | 23 | 2026-04-25 | 3Sum | 🟠 Medium  | ✅     | 1                | [LeetCode-15](https://leetcode.com/problems/3sum/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/3sum.cpp) |
 | 24 | 2026-04-25 | Reverse Words in a String | 🟠 Medium  | ✅     | 1                | [LeetCode-151](https://leetcode.com/problems/reverse-words-in-a-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/reverse_words_in_a_string.cpp) |
+| 25 | 2026-04-25 | Largest Odd Number in String | 🟠 Medium  | ✅     | 1                | [LeetCode-1903](https://leetcode.com/problems/largest-odd-number-in-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/largest_odd_number_in_string.cpp) |
 
 
 ---

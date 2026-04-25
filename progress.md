@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 46 | 🟢 Easy: 16 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 47 | 🟢 Easy: 17 | 🟠 Medium: 30 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 25**
+**Total Problems: 26**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -16,7 +16,7 @@ Tracking problem-solving progress...
 | 2  | 2026-04-20 | Two Sum            | 🟢 Easy  | ✅     | 2                | [LeetCode-1](https://leetcode.com/problems/two-sum/)     | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_sum.cpp) |
 | 3  | 2026-04-20 | Sort Colors | 🟠 Medium  | 🔄     | 2                | [LeetCode-75](https://leetcode.com/problems/sort-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/sort_colors.cpp) |
 | 4  | 2026-04-20 | Majority Element | 🟢 Easy  | 🔄     | 1                | [LeetCode-169](https://leetcode.com/problems/majority-element/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/majority_element.cpp) |
-| 5  | 2026-04-20 | Best Time to Buy and Sell Stock | 🟢 Easy  | 🔄     | 1                | [LeetCode-121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/best_time_to_buy_and_sell_stock.cpp) |
+| 5  | 2026-04-20 | Best Time to Buy and Sell Stock | 🟢 Easy  | 🔄     | 2                | [LeetCode-121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/best_time_to_buy_and_sell_stock.cpp) |
 | 6  | 2026-04-21 | Rearrange Array Elements by Sign | 🟠 Medium  | 🔄     | 1                | [LeetCode-2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/rearrange_array_elements_by_sign.cpp) |
 | 7  | 2026-04-21 | Two Furthest Houses With Different Colors | 🟢 Easy  | ✅     | 1                | [LeetCode-2078](https://leetcode.com/problems/two-furthest-houses-with-different-colors/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/two_furthest_houses_with_different_colors.cpp) |
 | 8  | 2026-04-22 | Next Permutation | 🟠 Medium  | ✅     | 1                | [LeetCode-31](https://leetcode.com/problems/next-permutation/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/next_permutation.cpp) |
@@ -37,7 +37,7 @@ Tracking problem-solving progress...
 | 23 | 2026-04-25 | 3Sum | 🟠 Medium  | ✅     | 1                | [LeetCode-15](https://leetcode.com/problems/3sum/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/3sum.cpp) |
 | 24 | 2026-04-25 | Reverse Words in a String | 🟠 Medium  | ✅     | 1                | [LeetCode-151](https://leetcode.com/problems/reverse-words-in-a-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/reverse_words_in_a_string.cpp) |
 | 25 | 2026-04-25 | Largest Odd Number in String | 🟠 Medium  | ✅     | 1                | [LeetCode-1903](https://leetcode.com/problems/largest-odd-number-in-string/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/largest_odd_number_in_string.cpp) |
-
+| 26 | 2026-04-25 | Longest Common Prefix | 🟢 Easy  | 🔄     | 1                | [LeetCode-14](https://leetcode.com/problems/longest-common-prefix/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/longest_common_prefix.cpp) |
 
 ---
 

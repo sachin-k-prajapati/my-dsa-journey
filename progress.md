@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 39 | 🟢 Easy: 13 | 🟠 Medium: 26 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 40 | 🟢 Easy: 14 | 🟠 Medium: 26 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 18**
+**Total Problems: 19**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -29,8 +29,8 @@ Tracking problem-solving progress...
 | 15 | 2026-04-24 | Merge Sorted Array | 🟠 Medium  | ✅     | 2                | [LeetCode-88](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/merge_sorted_array.cpp) |
 | 16 | 2026-04-25 | Remove Duplicates from Sorted Array | 🟢 Easy  | ✅     | 1                | [LeetCode-26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/remove_duplicates_from_sorted_array.cpp) |
 | 17 | 2026-04-25 | Rotate Array | 🟠 Medium  | ✅     | 1                | [LeetCode-189](https://leetcode.com/problems/rotate-array/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/rotate_array.cpp) |
-| 18 | 2026-04-26 | Move Zeroes | 🟢 Easy  | ✅     | 1                | [LeetCode-283](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/move_zeroes.cpp) |
-
+| 18 | 2026-04-25 | Move Zeroes | 🟢 Easy  | ✅     | 1                | [LeetCode-283](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/move_zeroes.cpp) |
+| 19 | 2026-04-25 | Max Consecutive Ones | 🟢 Easy  | ✅     | 1                | [LeetCode-485](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/max_consecutive_ones.cpp) |
 
 ---
 

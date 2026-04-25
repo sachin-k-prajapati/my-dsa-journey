@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 41 | 🟢 Easy: 15 | 🟠 Medium: 26 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 42 | 🟢 Easy: 15 | 🟠 Medium: 27 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 20**
+**Total Problems: 21**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -32,6 +32,7 @@ Tracking problem-solving progress...
 | 18 | 2026-04-25 | Move Zeroes | 🟢 Easy  | ✅     | 1                | [LeetCode-283](https://leetcode.com/problems/move-zeroes/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/move_zeroes.cpp) |
 | 19 | 2026-04-25 | Max Consecutive Ones | 🟢 Easy  | ✅     | 1                | [LeetCode-485](https://leetcode.com/problems/max-consecutive-ones/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/max_consecutive_ones.cpp) |
 | 20 | 2026-04-25 | Single Number | 🟢 Easy  | ✅     | 1                | [LeetCode-136](https://leetcode.com/problems/single-number/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/single_number.cpp) |
+| 21 | 2026-04-25 | Rotate Image | 🟠 Medium  | ✅     | 1                | [LeetCode-48](https://leetcode.com/problems/rotate-image/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/rotate_image.cpp) |
 
 ---
 

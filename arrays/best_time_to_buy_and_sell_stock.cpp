@@ -87,6 +87,34 @@ public:
     }
 };
 
+
+// ----------------------------------------------------------------------------
+class Solution {
+public:
+    int maxProfit(vector<int>& prices) {
+
+        // Minimum buying price seen so far
+        int minPrice = prices[0];
+
+        // Best profit found so far
+        int maxProfit = 0;
+
+        for (int i = 1; i < prices.size(); i++) {
+
+            // Calculate profit if sold today
+            int currentProfit = prices[i] - minPrice;
+
+            // Update best profit
+            maxProfit = max(maxProfit, currentProfit);
+
+            // Update minimum buying price
+            minPrice = min(minPrice, prices[i]);
+        }
+
+        return maxProfit;
+    }
+};
+
 /*
 ----------------------------------------------------------------------------
 🧠 Notes for Revision:

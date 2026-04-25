@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 36 | 🟢 Easy: 11 | 🟠 Medium: 25 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 37 | 🟢 Easy: 12 | 🟠 Medium: 25 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 15**
+**Total Problems: 16**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -27,6 +27,8 @@ Tracking problem-solving progress...
 | 13 | 2026-04-23 | Majority Element II | 🟠 Medium  | ✅     | 1                | [LeetCode-229](https://leetcode.com/problems/majority-element-ii/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/majority_element_ii.cpp) |
 | 14 | 2026-04-23 | Subarray Sum Equals K | 🟠 Medium  | 🔄     | 1                | [LeetCode-560](https://leetcode.com/problems/subarray-sum-equals-k/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/subarray_sum_equals_k.cpp) |
 | 15 | 2026-04-24 | Merge Sorted Array | 🟠 Medium  | ✅     | 2                | [LeetCode-88](https://leetcode.com/problems/merge-sorted-array/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/merge_sorted_array.cpp) |
+| 16 | 2026-04-25 | Remove Duplicates from Sorted Array | 🟠 Medium  | ✅     | 1                | [LeetCode-26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/remove_duplicates_from_sorted_array.cpp) |
+
 ---
 
 ## 📅 September 2025

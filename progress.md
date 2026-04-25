@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 43 | 🟢 Easy: 15 | 🟠 Medium: 28 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 44 | 🟢 Easy: 15 | 🟠 Medium: 29 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 22**
+**Total Problems: 23**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -34,6 +34,7 @@ Tracking problem-solving progress...
 | 20 | 2026-04-25 | Single Number | 🟢 Easy  | ✅     | 1                | [LeetCode-136](https://leetcode.com/problems/single-number/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/single_number.cpp) |
 | 21 | 2026-04-25 | Rotate Image | 🟠 Medium  | ✅     | 1                | [LeetCode-48](https://leetcode.com/problems/rotate-image/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/rotate_image.cpp) |
 | 22 | 2026-04-25 | Spiral Matrix | 🟠 Medium  | ✅     | 1                | [LeetCode-54](https://leetcode.com/problems/spiral-matrix/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/spiral_matrix.cpp) |
+| 23 | 2026-04-25 | 3Sum | 🟠 Medium  | ✅     | 1                | [LeetCode-15](https://leetcode.com/problems/3sum/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/3sum.cpp) |
 
 
 ---

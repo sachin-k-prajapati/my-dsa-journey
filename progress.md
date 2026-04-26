@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 51 | 🟢 Easy: 20 | 🟠 Medium: 31 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 52 | 🟢 Easy: 21 | 🟠 Medium: 31 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 30**
+**Total Problems: 31**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -42,6 +42,8 @@ Tracking problem-solving progress...
 | 28 | 2026-04-25 | Isomorphic Strings | 🟢 Easy  | ✅     | 2                | [LeetCode-205](https://leetcode.com/problems/isomorphic-strings/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/isomorphic_strings.cpp) |
 | 29 | 2026-04-25 | Valid Anagram | 🟢 Easy  | ✅     | 2                | [LeetCode-242](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/valid_anagram.cpp) |
 | 30 | 2026-04-25 | Sort Characters by Frequency | 🟠 Medium  | ✅     | 2                | [LeetCode-451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/sort_characters_by_frequency.cpp) |
+| 31 | 2026-04-25 | Maximum Nesting Depth of the Parentheses | 🟢 Easy  | ✅     | 1                | [LeetCode-1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/maximum_nesting_depth_of_the_parentheses.cpp) |
+
 ---
 
 ## 📅 September 2025

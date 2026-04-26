@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 52 | 🟢 Easy: 21 | 🟠 Medium: 31 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 53 | 🟢 Easy: 22 | 🟠 Medium: 31 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 31**
+**Total Problems: 32**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -43,6 +43,7 @@ Tracking problem-solving progress...
 | 29 | 2026-04-25 | Valid Anagram | 🟢 Easy  | ✅     | 2                | [LeetCode-242](https://leetcode.com/problems/valid-anagram/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/valid_anagram.cpp) |
 | 30 | 2026-04-25 | Sort Characters by Frequency | 🟠 Medium  | ✅     | 2                | [LeetCode-451](https://leetcode.com/problems/sort-characters-by-frequency/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/sort_characters_by_frequency.cpp) |
 | 31 | 2026-04-25 | Maximum Nesting Depth of the Parentheses | 🟢 Easy  | ✅     | 1                | [LeetCode-1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/maximum_nesting_depth_of_the_parentheses.cpp) |
+| 32 | 2026-04-25 | Roman to Integer | 🟢 Easy  | ✅     | 1                | [LeetCode-13](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/roman_to_integer.cpp) |
 
 ---
 

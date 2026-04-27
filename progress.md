@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 54 | 🟢 Easy: 22 | 🟠 Medium: 32 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 55 | 🟢 Easy: 23 | 🟠 Medium: 32 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 33**
+**Total Problems: 34**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -45,6 +45,7 @@ Tracking problem-solving progress...
 | 31 | 2026-04-26 | Maximum Nesting Depth of the Parentheses | 🟢 Easy  | ✅     | 1                | [LeetCode-1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/maximum_nesting_depth_of_the_parentheses.cpp) |
 | 32 | 2026-04-26 | Roman to Integer | 🟢 Easy  | ✅     | 1                | [LeetCode-13](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/roman_to_integer.cpp) |
 | 33 | 2026-04-27 | String to Integer (atoi) | 🟠 Medium  | ✅     | 1                | [LeetCode-8](https://leetcode.com/problems/string-to-integer-atoi/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/string_to_integer_atoi.cpp) |
+| 34 | 2026-04-27 | Mirror Distance of an Integer | 🟢 Easy  | ✅     | 1                | [LeetCode-3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/math/mirror_distance_of_an_integer.cpp) |
 
 ---
 

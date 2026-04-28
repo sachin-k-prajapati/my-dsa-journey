@@ -111,24 +111,17 @@ public:
         // Frequency array for 26 lowercase letters
         vector<int> alpha(26, 0);
 
-        // ------------------------------------------------
-        // Count characters of string t
-        // ------------------------------------------------
+        // Count characters of string t by incrementing frequency of each character
         for (int i = 0; i < m; i++) {
             alpha[t[i] - 'a']++;
         }
 
-        // ------------------------------------------------
-        // Remove characters of string s
-        // ------------------------------------------------
+        // Remove characters of string s by decrementing frequency of each character
         for (int i = 0; i < n; i++) {
             alpha[s[i] - 'a']--;
         }
 
-        // ------------------------------------------------
-        // Final validation:
-        // all frequencies must be zero
-        // ------------------------------------------------
+        // Check if all frequencies are zero → valid anagram
         for (int i = 0; i < 26; i++) {
 
             if (alpha[i] == 0) {

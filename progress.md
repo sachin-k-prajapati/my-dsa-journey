@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 55 | 🟢 Easy: 23 | 🟠 Medium: 32 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 56 | 🟢 Easy: 23 | 🟠 Medium: 33 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 34**
+**Total Problems: 35**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -46,6 +46,7 @@ Tracking problem-solving progress...
 | 32 | 2026-04-26 | Roman to Integer | 🟢 Easy  | ✅     | 1                | [LeetCode-13](https://leetcode.com/problems/roman-to-integer/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/roman_to_integer.cpp) |
 | 33 | 2026-04-27 | String to Integer (atoi) | 🟠 Medium  | ✅     | 1                | [LeetCode-8](https://leetcode.com/problems/string-to-integer-atoi/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/string_to_integer_atoi.cpp) |
 | 34 | 2026-04-27 | Mirror Distance of an Integer | 🟢 Easy  | ✅     | 1                | [LeetCode-3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/math/mirror_distance_of_an_integer.cpp) |
+| 35 | 2026-04-29 | Sum of Beauty of All Substrings | 🟠 Medium  | ✅     | 1                | [LeetCode-1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/sum_of_beauty_of_all_substrings.cpp) |
 
 ---
 

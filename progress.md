@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 57 | 🟢 Easy: 23 | 🟠 Medium: 34 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 58 | 🟢 Easy: 24 | 🟠 Medium: 34 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 36**
+**Total Problems: 37**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -48,6 +48,7 @@ Tracking problem-solving progress...
 | 34 | 2026-04-27 | Mirror Distance of an Integer | 🟢 Easy  | ✅     | 1                | [LeetCode-3783](https://leetcode.com/problems/mirror-distance-of-an-integer/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/math/mirror_distance_of_an_integer.cpp) |
 | 35 | 2026-04-29 | Sum of Beauty of All Substrings | 🟠 Medium  | ✅     | 1                | [LeetCode-1781](https://leetcode.com/problems/sum-of-beauty-of-all-substrings/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/strings/sum_of_beauty_of_all_substrings.cpp) |
 | 36 | 2026-04-29 | Delete Node in a Linked List | 🟠 Medium  | ✅     | 1                | [LeetCode-237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/delete_node_in_a_linked_list.cpp) |
+| 37 | 2026-04-29 | Middle of the Linked List | 🟢 Easy  | ✅     | 1                | [LeetCode-876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/middle_of_the_linked_list.cpp) |
 
 ---
 

@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 60 | 🟢 Easy: 25 | 🟠 Medium: 35 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 61 | 🟢 Easy: 25 | 🟠 Medium: 36 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 39**
+**Total Problems: 40**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -50,7 +50,8 @@ Tracking problem-solving progress...
 | 36 | 2026-04-29 | Delete Node in a Linked List | 🟠 Medium  | ✅     | 1                | [LeetCode-237](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/delete_node_in_a_linked_list.cpp) |
 | 37 | 2026-04-29 | Middle of the Linked List | 🟢 Easy  | ✅     | 1                | [LeetCode-876](https://leetcode.com/problems/middle-of-the-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/middle_of_the_linked_list.cpp) |
 | 38 | 2026-04-29 | Reverse Linked List | 🟠 Medium  | ✅     | 2                | [LeetCode-206](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/reverse_linked_list.cpp) |
-| 39 | 2026-04-29 | Linked List Cycle | 🟢 Easy  | ✅     | 2                | [LeetCode-141](https://leetcode.com/problems/linked-list-cycle/) | [Link](https:://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/linked_list_cycle.cpp) |
+| 39 | 2026-04-30 | Linked List Cycle | 🟢 Easy  | ✅     | 2                | [LeetCode-141](https://leetcode.com/problems/linked-list-cycle/) | [Link](https:://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/linked_list_cycle.cpp) |
+| 40 | 2026-04-30 | Linked List Cycle II | 🟠 Medium  | 🔄     | 1                | [LeetCode-142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/linked_list_cycle_ii.cpp)
 
 ---
 

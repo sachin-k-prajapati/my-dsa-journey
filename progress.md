@@ -3,12 +3,12 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 61 | 🟢 Easy: 25 | 🟠 Medium: 36 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 62 | 🟢 Easy: 25 | 🟠 Medium: 37 | 🔴 Hard: 0 ```
 
 ---
 ## 📅 April 2026
 
-**Total Problems: 40**
+**Total Problems: 41**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -52,6 +52,7 @@ Tracking problem-solving progress...
 | 38 | 2026-04-29 | Reverse Linked List | 🟠 Medium  | ✅     | 2                | [LeetCode-206](https://leetcode.com/problems/reverse-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/reverse_linked_list.cpp) |
 | 39 | 2026-04-30 | Linked List Cycle | 🟢 Easy  | ✅     | 2                | [LeetCode-141](https://leetcode.com/problems/linked-list-cycle/) | [Link](https:://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/linked_list_cycle.cpp) |
 | 40 | 2026-04-30 | Linked List Cycle II | 🟠 Medium  | 🔄     | 1                | [LeetCode-142](https://leetcode.com/problems/linked-list-cycle-ii/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/linked_list_cycle_ii.cpp)
+| 41 | 2026-04-30 | Find Length of Loop in Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/find-length-of-loop-in-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/find_length_of_loop.cpp)
 
 ---
 

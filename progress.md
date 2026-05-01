@@ -3,18 +3,18 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 64 | 🟢 Easy: 25 | 🟠 Medium: 39 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 65 | 🟢 Easy: 25 | 🟠 Medium: 40 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 1**
+**Total Problems: 2**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
-| 1 | 2026-05-01 | Odd Even Linked List | 🟠 Medium  | ✅     | 1                | [LeetCode-328](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/odd_even_linked_list.cpp)
-
+| 1 | 2026-05-01 | Odd Even Linked List | 🟠 Medium  | ✅     | 1                | [LeetCode-328](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/odd_even_linked_list.cpp) |
+| 2 | 2026-05-01 | Remove Nth Node From End of List | 🟠 Medium  | ✅     | 2                | [LeetCode-19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/remove_nth_node_from_end_of_list.cpp) |
 
 ---
 

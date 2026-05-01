@@ -3,9 +3,21 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 63 | 🟢 Easy: 25 | 🟠 Medium: 38 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 64 | 🟢 Easy: 25 | 🟠 Medium: 39 | 🔴 Hard: 0 ```
 
 ---
+
+## 📅 May 2026
+
+**Total Problems: 1**
+
+| #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
+|----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| 1 | 2026-05-01 | Odd Even Linked List | 🟠 Medium  | ✅     | 1                | [LeetCode-328](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/odd_even_linked_list.cpp)
+
+
+---
+
 ## 📅 April 2026
 
 **Total Problems: 42**

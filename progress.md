@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 69 | 🟢 Easy: 25 | 🟠 Medium: 44 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 70 | 🟢 Easy: 25 | 🟠 Medium: 45 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 6**
+**Total Problems: 7**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -19,6 +19,7 @@ Tracking problem-solving progress...
 | 4 | 2026-05-02 | Sort a Linked List of 0s, 1s and 2s | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](http://geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/sort_a_linked_list_of_0s_1s_and_2s.cpp) |
 | 5 | 2026-05-02 | Add 1 to a Number Represented as a Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/add_1_to_a_number_represented_as_linked_list.cpp) |
 | 6 | 2026-05-02 | Add Two Numbers | 🟠 Medium  | ✅     | 1                | [LeetCode-2](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/add_two_numbers.cpp) |
+| 7 | 2026-05-02 | Sort List | 🟠 Medium  | ✅     | 1                | [LeetCode-148](https://leetcode.com/problems/sort-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/sort_list.cpp) |
 
 ---
 

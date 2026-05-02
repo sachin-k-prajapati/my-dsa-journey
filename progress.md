@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 73 | 🟢 Easy: 27 | 🟠 Medium: 46 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 74 | 🟢 Easy: 27 | 🟠 Medium: 47 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 10**
+**Total Problems: 11**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -23,6 +23,7 @@ Tracking problem-solving progress...
 | 8 | 2026-05-02 | Intersection of Two Linked Lists | 🟢 Easy  | ✅     | 1                | [LeetCode-160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/intersection_of_two_linked_lists.cpp) |
 | 9 | 2026-05-02 | Delete All Occurrences of a Given Key in a Doubly Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/delete_all_occurrences_of_a_given_key_in_a_doubly_linked_list.cpp) |
 | 10 | 2026-05-02 | Find Pairs with Given Sum in Doubly Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/find_pairs_with_given_sum_in_doubly_linked_list.cpp) |
+| 11 | 2026-05-02 | Remove Duplicates from Sorted List II | 🟠 Medium  | ✅     | 1                | [LeetCode-82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/remove_duplicates_from_sorted_list_ii.cpp) |
 
 ---
 

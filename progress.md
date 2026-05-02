@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 70 | 🟢 Easy: 25 | 🟠 Medium: 45 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 71 | 🟢 Easy: 26 | 🟠 Medium: 45 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 7**
+**Total Problems: 8**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -20,6 +20,7 @@ Tracking problem-solving progress...
 | 5 | 2026-05-02 | Add 1 to a Number Represented as a Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/add_1_to_a_number_represented_as_linked_list.cpp) |
 | 6 | 2026-05-02 | Add Two Numbers | 🟠 Medium  | ✅     | 1                | [LeetCode-2](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/add_two_numbers.cpp) |
 | 7 | 2026-05-02 | Sort List | 🟠 Medium  | ✅     | 1                | [LeetCode-148](https://leetcode.com/problems/sort-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/sort_list.cpp) |
+| 8 | 2026-05-02 | Intersection of Two Linked Lists | 🟢 Easy  | ✅     | 1                | [LeetCode-160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/intersection_of_two_linked_lists.cpp) |
 
 ---
 

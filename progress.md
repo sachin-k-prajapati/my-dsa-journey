@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 71 | 🟢 Easy: 26 | 🟠 Medium: 45 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 72 | 🟢 Easy: 26 | 🟠 Medium: 46 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 8**
+**Total Problems: 9**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -21,6 +21,7 @@ Tracking problem-solving progress...
 | 6 | 2026-05-02 | Add Two Numbers | 🟠 Medium  | ✅     | 1                | [LeetCode-2](https://leetcode.com/problems/add-two-numbers/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/add_two_numbers.cpp) |
 | 7 | 2026-05-02 | Sort List | 🟠 Medium  | ✅     | 1                | [LeetCode-148](https://leetcode.com/problems/sort-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/sort_list.cpp) |
 | 8 | 2026-05-02 | Intersection of Two Linked Lists | 🟢 Easy  | ✅     | 1                | [LeetCode-160](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/intersection_of_two_linked_lists.cpp) |
+| 9 | 2026-05-02 | Delete All Occurrences of a Given Key in a Doubly Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/delete-all-occurrences-of-a-given-key-in-a-doubly-linked-list/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/delete_all_occurrences_of_a_given_key_in_a_doubly_linked_list.cpp) |
 
 ---
 

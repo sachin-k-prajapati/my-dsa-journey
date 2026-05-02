@@ -3,19 +3,21 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 66 | 🟢 Easy: 25 | 🟠 Medium: 41 | 🔴 Hard: 0 ```
+``` TOTAL PROBLEMS: 67 | 🟢 Easy: 25 | 🟠 Medium: 42 | 🔴 Hard: 0 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 3**
+**Total Problems: 4**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
 | 1 | 2026-05-01 | Odd Even Linked List | 🟠 Medium  | ✅     | 1                | [LeetCode-328](https://leetcode.com/problems/odd-even-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/odd_even_linked_list.cpp) |
 | 2 | 2026-05-01 | Remove Nth Node From End of List | 🟠 Medium  | ✅     | 2                | [LeetCode-19](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/remove_nth_node_from_end_of_list.cpp) |
 | 3 | 2026-05-01 | Delete the Middle Node of a Linked List | 🟠 Medium  | ✅     | 2                | [LeetCode-2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/delete_the_middle_node_of_a_linked_list.cpp) |
+| 4 | 2026-05-02 | Sort a Linked List of 0s, 1s and 2s | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](http://geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/sort_a_linked_list_of_0s_1s_and_2s.cpp) |
+
 ---
 
 ## 📅 April 2026

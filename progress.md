@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 77 | 🟢 Easy: 28 | 🟠 Medium: 48 | 🔴 Hard: 1 ```
+``` TOTAL PROBLEMS: 78 | 🟢 Easy: 28 | 🟠 Medium: 49 | 🔴 Hard: 1 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 14**
+**Total Problems: 15**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -27,6 +27,7 @@ Tracking problem-solving progress...
 | 12 | 2026-05-02 | Reverse Nodes in k-Group | 🔴 Hard  | ✅     | 1                | [LeetCode-25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/reverse_nodes_in_k_group.cpp) |
 | 13 | 2026-05-03 | Count Indices With Opposite Parity | 🟢 Easy  | ✅     | 1                | [LeetCode-3917](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/count_indices_with_opposite_parity.cpp) |
 | 14 | 2026-05-03 | Sum of Primes Between Number and Its Reverse | 🟠 Medium  | ✅     | 1                | [LeetCode-3918](https://leetcode.com/problems/sum-of-primes-between-number-and-its-reverse/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/math/sum_of_primes_between_number_and_its_reverse.cpp) |
+| 15 | 2026-05-03 | Minimum Cost to Move Between Indices | 🟠 Medium  | ✅     | 1                | [LeetCode-3919](https://leetcode.com/problems/minimum-cost-to-move-between-indices/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/minimum_cost_to_move_between_indices.cpp) |
 
 ---
 

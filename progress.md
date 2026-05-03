@@ -3,13 +3,13 @@
 Tracking problem-solving progress...
 
 
-``` TOTAL PROBLEMS: 75 | 🟢 Easy: 27 | 🟠 Medium: 47 | 🔴 Hard: 1 ```
+``` TOTAL PROBLEMS: 76 | 🟢 Easy: 28 | 🟠 Medium: 47 | 🔴 Hard: 1 ```
 
 ---
 
 ## 📅 May 2026
 
-**Total Problems: 12**
+**Total Problems: 13**
 
 | #  | Date       | Problem                                     | Difficulty | Status | Approaches Taken | LeetCode Link                                                                 | My Solution                                                                 |
 |----|------------|----------------------------------------------|------------|--------|------------------|-------------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -25,6 +25,7 @@ Tracking problem-solving progress...
 | 10 | 2026-05-02 | Find Pairs with Given Sum in Doubly Linked List | 🟠 Medium  | ✅     | 1                | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/find-pairs-with-given-sum-in-doubly-linked-list/1) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/find_pairs_with_given_sum_in_doubly_linked_list.cpp) |
 | 11 | 2026-05-02 | Remove Duplicates from Sorted List II | 🟠 Medium  | ✅     | 1                | [LeetCode-82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/remove_duplicates_from_sorted_list_ii.cpp) |
 | 12 | 2026-05-02 | Reverse Nodes in k-Group | 🔴 Hard  | ✅     | 1                | [LeetCode-25](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/linked-lists/reverse_nodes_in_k_group.cpp) |
+| 13 | 2026-05-02 | Count Indices With Opposite Parity | 🟠 Medium  | ✅     | 1                | [LeetCode-3917](https://leetcode.com/problems/count-indices-with-opposite-parity/) | [Link](https://github.com/sachin-k-prajapati/my-dsa-journey/blob/main/arrays/count_indices_with_opposite_parity.cpp) |
 
 ---
 
